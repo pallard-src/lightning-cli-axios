@@ -1,0 +1,11 @@
+{
+  "name": "ca.radio-canada.lightning-cli-axios",
+  "description": "lightning-cli-axios",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.7.0",
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {
+    "@lightningjs/cli": "^2.7.0"
+  }
+}
