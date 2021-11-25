@@ -1,0 +1,6 @@
+{
+  "name": "lightning-cli-axios",
+  "identifier": "ca.radio-canada.lightning-cli-axios",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
